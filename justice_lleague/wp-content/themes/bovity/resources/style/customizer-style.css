@@ -1,0 +1,72 @@
+
+
+/*FontAwesome Icon Styles*/
+.avadanta-type-icon{
+  overflow: hidden;
+}
+
+.avadanta-selected-icon{
+  background: #d2cdcd;
+  height: 45px;
+  line-height: 45px;
+  text-align: center;
+  border: 1px solid #d2cdcd;
+  position: relative;
+  margin-right: 45px;
+  cursor: pointer;
+  font-size: 28px;
+}
+
+.avadanta-selected-icon .fa{
+  display: block;
+  line-height: 45px;
+}
+
+.avadanta-selected-icon span{
+  position: absolute;
+  background: #d2cdcd;
+  right: -45px;
+  top: -1px;
+  height: 45px;
+  width: 45px;
+  border: 1px solid #d2cdcd;
+  font-size: 20px;
+}
+
+.avadanta-icon-list{
+  height: 215px;
+  overflow-y: scroll;
+  font-size: 18px;
+  border: 1px solid #EEE;
+  border-right: 0;
+  border-top: 0;
+  padding-bottom: 4%;
+  display: none;
+  cursor: pointer;
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+.avadanta-icon-list li{
+  float: left;
+  margin: 4% 3% 0;
+  height: 40px;
+  width: 16%;
+  text-align: center;
+  line-height: 40px;
+  border: 1px solid #EEE;
+}
+
+.avadanta-icon-list li:hover{
+  background: #333;
+  border: 1px solid #333;
+  color: #FFF;
+}
+
+.avadanta-icon-list li.icon-active{
+  background: #0073aa;
+  border: 1px solid #0073aa;
+  color: #FFF;
+}
+

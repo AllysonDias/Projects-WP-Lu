@@ -1,0 +1,9 @@
+Primeiros passos para acessar os arquivos:
+
+Passo 1. Entrar em C:\xampp\htdocs e jogar os dois arquivos dentro.
+Passo 2. Abrir o XAMP e ativa o Apache e MySQL
+Passo 3. Dentro do navegador, entrar em https://localhost/justice_lleague/wp-admin/
+                                        https://localhost/brumarquezine/wp-admin/
+
+Login: luzia
+Senha: All@91824650

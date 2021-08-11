@@ -1,0 +1,1781 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Bovity\n"
+"POT-Creation-Date: 2021-07-05 18:14+0530\n"
+"PO-Revision-Date: 2019-04-09 11:22+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comments.php:26
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:59
+msgid "Comments are closed."
+msgstr ""
+
+#: header-footer/footer-top.php:68
+msgid "Proudly powered by"
+msgstr ""
+
+#: header-footer/footer-top.php:71
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: header-footer/footer-top.php:74
+msgid "WordPress"
+msgstr ""
+
+#: header.php:33
+msgid "Skip to content"
+msgstr ""
+
+#: lib/bovity-breadcrumbs.php:17 lib/breadcrumb/bovity-breadcrumbs.php:17
+msgid "Search Results For "
+msgstr ""
+
+#: lib/bovity-breadcrumbs.php:20 lib/breadcrumb/bovity-breadcrumbs.php:20
+msgid "Nothing Found "
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:264
+msgid "Browse:"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:266
+msgid "Home"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:268
+msgid "Archives"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:269
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:270
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:271
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:272
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:273
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:733
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:750
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:767
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:783
+#: lib/breadcrumb/breadcrumbs-trail.php:812
+#: lib/breadcrumb/breadcrumbs-trail.php:839
+#: lib/breadcrumb/breadcrumbs-trail.php:866
+#: lib/breadcrumb/breadcrumbs-trail.php:1206
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:784
+#: lib/breadcrumb/breadcrumbs-trail.php:840
+#: lib/breadcrumb/breadcrumbs-trail.php:1210
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:785
+#: lib/breadcrumb/breadcrumbs-trail.php:1214
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: lib/breadcrumb/breadcrumbs-trail.php:813
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: lib/customizer-plugin-notice/bovity-customizer-notify.php:111
+msgid "Activating"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:33
+msgid "Add new field"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:38
+msgid "Customizer Repeater"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:280
+#: lib/customizer-repeater/class/customizer-repeater-control.php:426
+msgid "Title"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:287
+#: lib/customizer-repeater/class/customizer-repeater-control.php:433
+msgid "Subtitle"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:294
+#: lib/customizer-repeater/class/customizer-repeater-control.php:440
+msgid "Description"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:303
+#: lib/customizer-repeater/class/customizer-repeater-control.php:448
+msgid "Button Text"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:314
+#: lib/customizer-repeater/class/customizer-repeater-control.php:458
+#: lib/customizer-repeater/class/customizer-repeater-control.php:648
+#: lib/customizer-repeater/class/customizer-repeater-control.php:670
+msgid "Link"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:333
+#: lib/customizer-repeater/class/customizer-repeater-control.php:476
+msgid "Video Url"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:354
+#: lib/customizer-repeater/class/customizer-repeater-control.php:418
+msgid "Color"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:364
+#: lib/customizer-repeater/class/customizer-repeater-control.php:487
+msgid "Shortcode"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:372
+#: lib/customizer-repeater/class/customizer-repeater-control.php:496
+msgid "Designation"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:388
+#: lib/customizer-repeater/class/customizer-repeater-control.php:507
+msgid "Delete field"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:544
+msgid "Open link in new tab:"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:555
+#: lib/customizer-repeater/class/customizer-repeater-control.php:623
+msgid "Icon"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:560
+#, php-format
+msgid ""
+"Note: Some icons may not be displayed here. You can see the full list of "
+"icons at %1$s."
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:561
+msgid "http://fontawesome.io/icons/"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:578
+#: lib/customizer-repeater/class/customizer-repeater-control.php:624
+msgid "Image"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:581
+msgid "Upload Image"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:590
+msgid "Slide Format"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:594
+msgid "Standard"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:598
+msgid "Aside"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:602
+msgid "Quote"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:606
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:610
+msgid "Video"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:620
+msgid "Image type"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:626
+msgid "None"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:634
+msgid "Social icons"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:651
+#: lib/customizer-repeater/class/customizer-repeater-control.php:681
+msgid "Remove Icon"
+msgstr ""
+
+#: lib/customizer-repeater/class/customizer-repeater-control.php:656
+#: lib/customizer-repeater/class/customizer-repeater-control.php:689
+msgid "Add Icon"
+msgstr ""
+
+#: lib/customizer/bovity-customize-typography-control.php:39
+msgid "Fonts List"
+msgstr ""
+
+#: lib/customizer/bovity-customize-typography-control.php:48
+msgid "Google Fonts"
+msgstr ""
+
+#: lib/customizer/bovity-customizer.php:57
+msgid "Avadanta theme options"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:34
+msgid "Header Text Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:35
+msgid "Header Text Title Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:47
+msgid "Header Tagline Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:48
+msgid "Header Tagline  Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:57
+msgid "Bovity Theme settings"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:59
+msgid "Drag and Drop to Reorder"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:68
+msgid "Bovity Front Page Sections"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:73
+#: lib/getting-started/tabs/customizer-welcome.php:62
+msgid "Sidebar Layout"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:84
+msgid "Blog Template Layout"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:86
+msgid "This will be apply for blog template layout"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:91
+#: lib/customizer/bovity_customizer_sections.php:110
+#: lib/customizer/bovity_customizer_sections.php:129
+msgid "Right sidebar"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:92
+#: lib/customizer/bovity_customizer_sections.php:111
+#: lib/customizer/bovity_customizer_sections.php:130
+msgid "Left sidebar"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:93
+#: lib/customizer/bovity_customizer_sections.php:112
+#: lib/customizer/bovity_customizer_sections.php:131
+msgid "No sidebar"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:103
+msgid "Single Post Template Layout"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:105
+msgid "This will be apply for single Post template layout"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:122
+msgid "Page Template Layout"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:124
+msgid "This will be apply for Page template layout"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:137
+#: lib/getting-started/tabs/customizer-welcome.php:67
+msgid "Post Options"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:148
+msgid "Enable Single Post Thumbnail"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:151
+msgid "Check this box to enable post thumbnail on single post."
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:161
+msgid "Enable Single Post Meta"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:164
+msgid ""
+"Check this box to enable single post meta such as post date, author, "
+"category, comment etc."
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:174
+msgid "Enable Single Post Title"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:177
+msgid "Check this box to enable title on single post."
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:184
+#: lib/getting-started/tabs/customizer-welcome.php:72
+msgid "Footer Options"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:195
+msgid "Disable Footer Top Section?"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:198
+msgid "Check this box to Disable Top Footer section."
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:210
+msgid "Footer Widget Column"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:216
+msgid "Col 1"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:217
+msgid "Col 2"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:218
+msgid "Col 3"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:219
+msgid "Col 4"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:224
+msgid "#1b1b1b"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:230
+msgid "Background Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:232
+msgid "Change Footer Background Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:241
+#: lib/customizer/bovity_customizer_sections.php:256
+msgid "#fff"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:249
+msgid "Widget Title Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:264
+msgid "Widget Text Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:272
+msgid "404 Page Setting"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:285
+msgid "404 Background Image"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:296
+msgid "404 Overlay Opacity"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:315
+msgid "404 Background Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:318
+msgid "Select To Change 404 Background Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:331
+msgid "404 Title"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:341
+msgid "404 Sub Title"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:352
+msgid "404 Description"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:362
+msgid "404 Button Text"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:372
+msgid "404 Button Url "
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:377
+msgid "#3f51b5"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:386
+#: lib/getting-started/tabs/customizer-welcome.php:29
+msgid "Theme Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:387
+msgid "Change Theme Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:396
+msgid "Top Header"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:407
+msgid "Enable Top Header Section?"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:410
+msgid "Check this box to Enable Top Header section."
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:422
+msgid "Header Email"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:433
+msgid "Header Contact"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:443
+msgid "Header Address"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:457
+msgid "Facebook Url"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:469
+msgid "Twitter Url"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:481
+msgid "Instagram Url"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:493
+msgid "Youtube Url"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:497
+msgid "Navigation Setting"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:508
+msgid "Enable Search Icon"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:511
+msgid "Check this box to Enable Search Icon"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:522
+msgid "Enable Top Modal"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:525
+msgid "Check this box to Enable Top Modal"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:532
+msgid "Header/Breadcrumb Options"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:546
+msgid "Header Background Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:549
+msgid "Select To Change Header Background Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:561
+msgid "Breadcrumbs Overlay Opacity"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:575
+msgid "Breadcrumb Header Height"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:595
+msgid "Breadcrumb Title Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:598
+msgid "Select To Change Breadcrumb Title Color"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:611
+msgid "Disable Blog Page Header"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:614
+msgid "Check this box to Disable Page Header on Blog Page"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:625
+msgid "Disable Single Post Header"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:628
+msgid "Check this box to Disable Page Header on Single Post"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:639
+msgid "Disable Single Page Header"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:642
+msgid "Check this box to Disable Page Header on Single Page"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:653
+msgid "Disable Breadcrumbs"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:656
+msgid "Check this box to Disable Breadcrumbs on all pages and posts"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:662
+#: lib/getting-started/tabs/customizer-welcome.php:83
+msgid "Theme Typography"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:672
+msgid "Enable Typography"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:675
+msgid "Check this box to Enable Custom Typography"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:689
+msgid "Font Family"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:706
+msgid "H1 to H6 Font Family"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:716
+#: lib/getting-started/tabs/customizer-welcome.php:88
+msgid "Sticky Menu/Scroll Up Option"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:727
+msgid "Disable Sticky Menu"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:730
+msgid "Check this box to Disable Sticky Menu."
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:741
+msgid "Disable Scroll To Top"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:744
+msgid "Check this box to Disable Scroll To Top."
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:755
+msgid "Disable Preloader Option"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:758
+msgid "Check this box to Disable Preloader"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:765
+msgid "Bottom Footer Options"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:776
+msgid "Disable Copyright Section?"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:779
+msgid "Check this box to Disable copyright section."
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:787
+#, php-format
+msgid "Proudly powered by %1$s WordPress %3$s"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:794
+msgid "Copyright Content Here"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:804
+#: lib/customizer/bovity_customizer_sections.php:818
+msgid "Home Section Re Order"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:821
+msgid "About Us"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:822
+msgid "Features Services"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:823
+msgid "Callout Section"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:824
+msgid "Gallery Section"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:825
+msgid "Testimonial Section"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:826
+msgid "Team Section"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:827
+msgid "News Section"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:902
+msgid "Install and activate Avadanta Companion For HomePage"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:909
+msgid "Recommended Actions"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:910
+msgid "Recommended Plugin"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:911
+msgid "Install and Activate"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:912
+#: lib/getting-started/class-getting-start-plugin-helper.php:94
+#: lib/getting-started/class-getting-start-plugin-helper.php:114
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: lib/customizer/bovity_customizer_sections.php:913
+#: lib/getting-started/class-getting-start-plugin-helper.php:109
+msgid "Deactivate"
+msgstr ""
+
+#: lib/getting-started/class-getting-start-plugin-helper.php:90
+msgid "Install and activate"
+msgstr ""
+
+#: lib/getting-started/class-getting-start-plugin-helper.php:114
+msgid "Jetpack Portfolio"
+msgstr ""
+
+#: lib/getting-started/getting-started.php:15
+#: lib/getting-started/getting-started.php:123 lib/template-functions.php:102
+msgid "Getting Started"
+msgstr ""
+
+#: lib/getting-started/getting-started.php:16
+msgid "About Bovity"
+msgstr ""
+
+#: lib/getting-started/getting-started.php:40
+msgid "Activating "
+msgstr ""
+
+#: lib/getting-started/getting-started.php:105
+#, php-format
+msgid "Getting started with %1$s v%2$s"
+msgstr ""
+
+#: lib/getting-started/getting-started.php:111
+msgid "Welcome to"
+msgstr ""
+
+#: lib/getting-started/getting-started.php:113
+msgid "AvadantaThemes"
+msgstr ""
+
+#: lib/getting-started/getting-started.php:132
+#: lib/getting-started/tabs/plugins-panel.php:9
+msgid "Recommended Plugins"
+msgstr ""
+
+#: lib/getting-started/getting-started.php:141
+msgid "Theme Setup"
+msgstr ""
+
+#: lib/getting-started/getting-started.php:153
+msgid "FAQ's &amp; Support"
+msgstr ""
+
+#: lib/getting-started/getting-started.php:163
+msgid "Free Vs Pro"
+msgstr ""
+
+#: lib/getting-started/tabs/customizer-welcome.php:13
+msgid "Theme SetUp"
+msgstr ""
+
+#: lib/getting-started/tabs/customizer-welcome.php:19
+msgid "Home Page Setup"
+msgstr ""
+
+#: lib/getting-started/tabs/customizer-welcome.php:24
+msgid "Logo Stup"
+msgstr ""
+
+#: lib/getting-started/tabs/customizer-welcome.php:34
+msgid "Add Widgets"
+msgstr ""
+
+#: lib/getting-started/tabs/customizer-welcome.php:39
+msgid "Header Image"
+msgstr ""
+
+#: lib/getting-started/tabs/customizer-welcome.php:44
+msgid "Menu"
+msgstr ""
+
+#: lib/getting-started/tabs/customizer-welcome.php:55
+msgid "Bovity Theme Settings"
+msgstr ""
+
+#: lib/getting-started/tabs/customizer-welcome.php:77
+msgid "Header/Breadcrumb Options\n"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:13
+msgid "Features"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:14
+msgid "Free"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:15
+msgid "Pro"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:21
+msgid "Home Pages"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:28
+msgid "Shopping Templates"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:35
+msgid "Contact Page"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:42
+msgid "About Page"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:49
+msgid "Mega Menu"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:56
+msgid "Premium Widgets"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:63
+msgid "Translation Ready"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:70
+msgid "Speed Optimized"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:77
+msgid "Social Media Integration"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:84
+msgid "Unlimited Color"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:91
+msgid "Shoortcodes"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:98
+msgid "Page Templates"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:109
+#: lib/getting-started/tabs/free-vs-pro-panel.php:111
+#: lib/getting-started/tabs/free-vs-pro-panel.php:112
+#: lib/getting-started/tabs/link-panel.php:9
+#: lib/upgrade/class-customize.php:88
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: lib/getting-started/tabs/free-vs-pro-panel.php:110
+msgid "For More Features And Updates Please Update To Our Pro Version"
+msgstr ""
+
+#: lib/getting-started/tabs/help-panel.php:10
+msgid "View Our Bovity Demo"
+msgstr ""
+
+#: lib/getting-started/tabs/help-panel.php:11
+msgid ""
+"Visit the demo to get more ideas about our theme design And Its Sections."
+msgstr ""
+
+#: lib/getting-started/tabs/help-panel.php:12
+msgid "Visit the Demo"
+msgstr ""
+
+#: lib/getting-started/tabs/help-panel.php:13
+msgid "View Demo"
+msgstr ""
+
+#: lib/getting-started/tabs/help-panel.php:17
+msgid "View Our Documentation Link"
+msgstr ""
+
+#: lib/getting-started/tabs/help-panel.php:18
+msgid ""
+"New to the WordPress world? Our documentation has step by step procedure "
+"to create a beautiful website."
+msgstr ""
+
+#: lib/getting-started/tabs/help-panel.php:19
+msgid "Visit the Documentation"
+msgstr ""
+
+#: lib/getting-started/tabs/help-panel.php:20
+msgid "View Documentation"
+msgstr ""
+
+#: lib/getting-started/tabs/help-panel.php:25
+msgid "Support Ticket"
+msgstr ""
+
+#: lib/getting-started/tabs/help-panel.php:26
+#, php-format
+msgid ""
+"It's always a good idea to visit our %1$sKnowledge Base%2$s before you "
+"send us a support ticket."
+msgstr ""
+
+#: lib/getting-started/tabs/help-panel.php:27
+msgid ""
+"If the Knowledge Base didn't answer your queries, submit us a support "
+"ticket here. Our response time usually is less than a business day, except "
+"on the weekends."
+msgstr ""
+
+#: lib/getting-started/tabs/help-panel.php:28
+msgid "Visit the Support"
+msgstr ""
+
+#: lib/getting-started/tabs/help-panel.php:29
+msgid "Contact Support"
+msgstr ""
+
+#: lib/getting-started/tabs/link-panel.php:10
+#: lib/getting-started/tabs/support-panel.php:13
+msgid ""
+"With the Pro version, you can change the look and feel of your website in "
+"seconds. In just a few clicks, you can change the color and typography of "
+"your website. The premium version lets you have better control over the "
+"theme as it comes with more customization options. Not just that, the "
+"theme also has more sections and layout options as compared to the free "
+"version. The Pro version is multi-language compatible as well."
+msgstr ""
+
+#: lib/getting-started/tabs/link-panel.php:11
+msgid ""
+"You will also get more frequent updates and quicker support with the Pro "
+"version."
+msgstr ""
+
+#: lib/getting-started/tabs/link-panel.php:12
+msgid "View Pro Version"
+msgstr ""
+
+#: lib/getting-started/tabs/link-panel.php:13
+msgid "Read More About the Pro Theme"
+msgstr ""
+
+#: lib/getting-started/tabs/link-panel.php:18
+#: lib/getting-started/tabs/link-panel.php:22
+msgid "Visit the Knowledge Base"
+msgstr ""
+
+#: lib/getting-started/tabs/link-panel.php:19
+msgid ""
+"Need help with using the WordPress as quickly as possible? Visit our well-"
+"organized Knowledge Base!"
+msgstr ""
+
+#: lib/getting-started/tabs/link-panel.php:20
+msgid ""
+"Our Knowledge Base has step-by-step video and text tutorials, from "
+"installing the WordPress to working with themes and more."
+msgstr ""
+
+#: lib/getting-started/tabs/link-panel.php:22
+msgid "Visit the knowledge base"
+msgstr ""
+
+#: lib/getting-started/tabs/plugins-panel.php:11
+msgid ""
+"Install and activate Avadanta Companion plugin for taking full advantage "
+"of all the features this theme has to offer Avadanta.\n"
+msgstr ""
+
+#: lib/getting-started/tabs/plugins-panel.php:29
+msgid "Free Plugins"
+msgstr ""
+
+#: lib/getting-started/tabs/plugins-panel.php:30
+msgid "These Free Plugins might be handy for you."
+msgstr ""
+
+#: lib/getting-started/tabs/plugins-panel.php:40
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:10
+msgid "What is the difference between Free and Pro?"
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:12
+msgid ""
+"Both Free and Pro version of the themes are well-built. However, the Pro "
+"version comes with many additional features."
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:14
+#, php-format
+msgid ""
+"Overall, you will have more control over your website with the Pro "
+"version. You can find out more about the difference between Free and Pro "
+"versions %1$shere%2$s."
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:19
+msgid "What are the advantages of upgrading to the Premium version?"
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:21
+msgid ""
+"With Premium version, besides the extra features and frequent updates, you "
+"get premium support. If you run into any theme issues, you will get a lot "
+"quicker response compared to the free support."
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:26
+msgid "Upgrading to the Pro version- will I lose my changes?"
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:28
+msgid ""
+"When you upgrade to the Pro theme, your posts, pages, media, categories, "
+"and other data will remain intact-- all your data is saved."
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:29
+msgid ""
+"However, since the Pro version comes with added features and settings, you "
+"will need to set up the additional features in the customizer. This "
+"process is simple and only takes a few minutes."
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:30
+msgid ""
+"The Pro version is built with lots of flexibility in mind for future "
+"upgrades. Therefore, it is slightly different than the free theme but "
+"extremely flexible and easy-to-use."
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:35
+msgid "How do I change the copyright text?"
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:37
+#, php-format
+msgid ""
+"You can change the copyright text going to %1$sAppearance > Customize > "
+"Footer Settings%2$s. However, if you want to hide the author credit text, "
+"please %3$supgrade to the Pro version%4$s."
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:42
+msgid "Why is my theme not working well?"
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:44
+msgid ""
+"If your customizer is not loading properly or you are having issues with "
+"the theme, it might be due to the plugin conflict."
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:45
+#, php-format
+msgid ""
+"To solve the issue, deactivate all the plugins first, except the ones "
+"recommended by the theme. Then, hard reload your website using %1$s\"Ctrl"
+"+Shift+R\"%2$s on Windows. If the issues are fixed, start activating the "
+"plugins one by one, and reload and check your site each time. This will "
+"help you find out the plugin that is causing the problem."
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:46
+#, php-format
+msgid "If this didn't help, please %1$scontact us%2$s."
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:51
+msgid "How can I solve my issues quickly and get faster support?"
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:53
+msgid ""
+"Before you send us a support ticket for any issues, please make sure you "
+"have updated the theme to the latest version. We might have fixed the bug "
+"in the theme update."
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:54
+msgid ""
+"When you submit the support ticket, please try to provide as much details "
+"as possible so that we can solve your problem faster. We recommend you to "
+"send us a screenshot(s) with issues explained and your website's address "
+"(URL)."
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:55
+msgid ""
+"Also, you might experience a slower response time during the weekend, so "
+"please bear with us."
+msgstr ""
+
+#: lib/getting-started/tabs/support-panel.php:56
+#, php-format
+msgid ""
+"If You Want More Faster Support from Us Then, please %3$supgrade to the "
+"Pro version%4$s."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: lib/plugin-activator/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: lib/plugin-activator/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: lib/plugin-activator/class-tgm-plugin-activation.php:336
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/plugin-activator/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/plugin-activator/class-tgm-plugin-activation.php:348
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/plugin-activator/class-tgm-plugin-activation.php:354
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/plugin-activator/class-tgm-plugin-activation.php:360
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: lib/plugin-activator/class-tgm-plugin-activation.php:366
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural ""
+"The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:371
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:376
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:381
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:386
+#: lib/plugin-activator/class-tgm-plugin-activation.php:827
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2533
+#: lib/plugin-activator/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:387
+#: lib/plugin-activator/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:388
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: lib/plugin-activator/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/plugin-activator/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: lib/plugin-activator/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update "
+"or activate."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:934
+#: lib/plugin-activator/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files "
+"are not packaged in a folder."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:1121
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: lib/plugin-activator/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/plugin-activator/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: lib/plugin-activator/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/plugin-activator/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: lib/plugin-activator/class-tgm-plugin-activation.php:3509
+#: lib/plugin-activator/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s done."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/plugin-activator/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on "
+"some hosts, so please be patient."
+msgstr ""
+
+#: lib/plugin-activator/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: lib/plugin-activator/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: lib/plugin-activator/hook-tgm.php:20
+msgid "Contact Form 7"
+msgstr ""
+
+#: lib/plugin-activator/hook-tgm.php:26
+msgid "Avadanta Companion"
+msgstr ""
+
+#: lib/plugin-activator/hook-tgm.php:32
+msgid "Elementor"
+msgstr ""
+
+#: lib/plugin-activator/hook-tgm.php:39
+msgid "Woocommerce"
+msgstr ""
+
+#: lib/template-functions.php:13
+msgid "Blog Sidebar"
+msgstr ""
+
+#: lib/template-functions.php:15
+msgid "Sidebar on the blog layout."
+msgstr ""
+
+#: lib/template-functions.php:27
+#, php-format
+msgid "Footer Area %d"
+msgstr ""
+
+#: lib/template-functions.php:29
+msgid "Added widgets are display at footer widget area."
+msgstr ""
+
+#: lib/template-functions.php:38
+msgid "Top Modal Sidebar"
+msgstr ""
+
+#: lib/template-functions.php:40
+msgid "Sidebar for Top Sidebar."
+msgstr ""
+
+#: lib/template-functions.php:49
+msgid "Woocomerce Sidebar"
+msgstr ""
+
+#: lib/template-functions.php:51
+msgid "Sidebar For Woocommerce."
+msgstr ""
+
+#: lib/template-functions.php:89
+msgid "Congratulations! For Activating Bovity Theme"
+msgstr ""
+
+#: lib/template-functions.php:90
+#, php-format
+msgid ""
+"%1$s is now installed and ready to usefor you.Install and Activate "
+"Avadanta Companion Plugin to get advantages of Our Theme Homepage"
+msgstr ""
+
+#. translators: 1: welcome page link starting html tag, 2: welcome page link ending html tag.
+#: lib/template-functions.php:95
+msgid "Install Avadanta Companon"
+msgstr ""
+
+#: lib/template-functions.php:100
+msgid "Customize Theme"
+msgstr ""
+
+#: lib/template-functions.php:103
+msgid "Dismiss"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: lib/template-tags.php:59
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: 1: list of tags.
+#: lib/template-tags.php:62
+#, php-format
+msgid "Tags: %1$s"
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: lib/template-tags.php:70
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: lib/template-tags.php:104
+msgid "1 comment"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: lib/template-tags.php:108
+#, php-format
+msgctxt "comments title"
+msgid "%1$s comment"
+msgid_plural "%1$s comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: lib/upgrade/class-customize.php:76
+msgid "Documentation"
+msgstr ""
+
+#. translators: Link
+#: theme-parts/content-none.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: theme-parts/content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: theme-parts/content-none.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: theme-parts/content-page.php:15 theme-parts/content-single.php:29
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: theme-parts/content-page.php:26 theme-parts/content-single.php:40
+msgid "Pages:"
+msgstr ""
+
+#: theme-parts/content-search.php:14 theme-parts/content.php:31
+msgid "Read More"
+msgstr ""
+
+#: theme-setup.php:33
+msgid "Primary"
+msgstr ""
+
+#: theme-setup.php:34
+msgid "footer"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Bovity"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Bovity is a creative, fully customizable and multipurpose theme that you "
+"can use to create any kind of beautiful websites. pre-made designed "
+"Homepage with 7 inner sections slider, service, about, team, testimonial, "
+"portfolio, call to action, you can easily customize them. Unlimited color "
+"feature with unlimited typography. Compatible with gutenberg, elemnetor "
+"page builder and so many popular plugins nicely works with bovity theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "avadantathemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.avadantathemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Bovity Home Page"
+msgstr ""
